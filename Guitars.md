@@ -16,7 +16,10 @@
 
 **Third Guitar:**
 
-![third guitar]()
+![third guitar](https://github.com/TedLessmann/Markdown_Challenge/blob/main/images/PRS-S2-MCCARTY-594-FIRE-RED-BURST-S2067550-front__48485.jpg)
+
+- The last guitar I bought was this PRS MCCARTY 594, a rather expensive guitar coming in around $1,000
+- This guitar is special to me because I've always wanted a Gibson Les Paul style guitar, but you can't find one of those under $1,500, so I went with this similar style guitar
 
   
 
