@@ -5,7 +5,7 @@
 
 | State         | Fish Name       | Fish Image    |
 |:-------------:|:---------------:|:-------------:|
-| Missouri      | Largemouth Bass | <img src="https://raw.githubusercontent.com/TedLessmann/Markdown_Challenge/refs/heads/main/images/fishing-rod-illustration-png.webp" alt="Fishing Rod" width="25" height="25"> |
-| Florida       | Snook |  |
-| Maine         | Smallmouth Bass |  |
-| Minnesota     | Musky | |
+| Missouri      | Largemouth Bass | <img src="https://github.com/TedLessmann/Markdown_Challenge/blob/main/images/Actinopterygii_Perciformes_Centrarchidae_Micropterus_salmoides_Largemouth_Bass_3lb_2011_05_19_post.jpg" alt="LMB" width="150" height="90"> |
+| Florida       | Snook | <img src="" alt="snook" width="150" height="90"> |
+| Maine         | Smallmouth Bass | <img src="" alt="snook" width="150" height="90"> |
+| Minnesota     | Musky | <img src="" alt="snook" width="150" height="90"> |
